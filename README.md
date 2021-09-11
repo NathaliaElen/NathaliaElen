@@ -16,7 +16,7 @@
   <img align="center" alt="Nathy-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Nathy-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align = "right" alt = "Rafa-yoda" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Nathy-yoda" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_8zGwszRx.png">
 </div>
   
   ##
