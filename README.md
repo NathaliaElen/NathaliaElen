@@ -30,6 +30,9 @@
  
 <a href= "" target="_blank"> <img scr= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
   <a href= "https://www.facebook.com/nathalia.ellen.5458" target="_blank"> <img scr="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
+  
+  <a href= "" target="_blank"> <img scr= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+  <a href= "https://www.facebook.com/nathalia.ellen.5458" target="_blank"> <img scr="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
  
   ![Snake animation](https://github.com/NathaliaElen/NathaliaElen/blob/output/github-contribution-grid-snake.svg)
  
