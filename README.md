@@ -40,4 +40,10 @@
  
 </div>
 
+<div>
+  <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/blacktocats.png" />
+   <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/homercat.png" />
+  <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/collabocats.jpg" />
+</div>
+
 
