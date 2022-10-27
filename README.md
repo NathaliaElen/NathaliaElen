@@ -5,9 +5,11 @@
 - 🌱 Me interesso por HTML, CSS, Bootstrap Javascript, Git, GitHub, Banco de Dados, Metodologia Ágil.
 - 💞️ Muito do que sou hoje devo as minhas experiências e desafios. Aprendo todos os dias a ter resiliência, foco nos meus estudos e nas realizações dos meus sonhos. Minha comunicação e responsabilidades foram desenvolvidas em entidades estudantis. Trabalhar atendendo pessoas aguçou a minha curiosidade e aprimorou a minha inteligência emocional.
 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
+
 <div>
   <a href="https://github.com/NathaliaElen">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NathaliaElen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NathaliaElen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaElen&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
@@ -50,5 +52,3 @@
   <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/collabocats.jpg" />
    <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/spidertocat.png" />
 </div>
-
-
