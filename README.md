@@ -1,6 +1,5 @@
 # Olá, me chamo Nathália Elen e tenho 20 anos!
 ***
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
 
 - 👀 Atualmente, estou cursando o Tecnólogo de Sistemas para Internet e me formei no Curso Técnico em Desenvolvimento de Sistemas.
 - 🌱 Me interesso por HTML, CSS, Bootstrap Javascript, Git, GitHub, Banco de Dados, Metodologia Ágil.
@@ -45,9 +44,4 @@
  
 </div>
 
-<div>
-  <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/blacktocats.png" />
-   <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/homercat.png" />
-  <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/collabocats.jpg" />
-   <img align="center" alt="Nathy-Html" height="200" width="200" src="https://octodex.github.com/images/spidertocat.png" />
-</div>
+ <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
