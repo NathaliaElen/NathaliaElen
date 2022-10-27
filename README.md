@@ -44,4 +44,4 @@
  
 </div>
 
- <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
