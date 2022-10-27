@@ -7,7 +7,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90493304/198184593-1407c9df-1c5f-4b9e-b96c-4cea31a2ec56.png" width="400px" />
 
-<div>
+<div display="flex" flex-direction="column">
   <a href="https://github.com/NathaliaElen">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NathaliaElen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaElen&layout=compact&langs_count=7&theme=dracula" />
