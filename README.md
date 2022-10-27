@@ -1,7 +1,8 @@
-<h2>👋 Olá! Eu sou Nathália Elen e tenho 20 anos!</h2>
+# Olá, me chamo Nathália Elen e tenho 20 anos!
+***
 
 - 👀 Atualmente, estou cursando o Tecnólogo de Sistemas para Internet e me formei no Curso Técnico em Desenvolvimento de Sistemas.
-- 🌱 Me interesso por HTML, CSS, Javascript, Git, GitHub, Banco de Dados, Metodologia Ágil.
+- 🌱 Me interesso por HTML, CSS, Bootstrap Javascript, Git, GitHub, Banco de Dados, Metodologia Ágil.
 - 💞️ Muito do que sou hoje devo as minhas experiências e desafios. Aprendo todos os dias a ter resiliência, foco nos meus estudos e nas realizações dos meus sonhos. Minha comunicação e responsabilidades foram desenvolvidas em entidades estudantis. Trabalhar atendendo pessoas aguçou a minha curiosidade e aprimorou a minha inteligência emocional.
 
 <div>
@@ -11,10 +12,13 @@
 </div>
 
 <div style = "display: inline_block"> <br>
-  <img align="center" alt="Nathy-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Nathy-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Nathy-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
   ##
 
