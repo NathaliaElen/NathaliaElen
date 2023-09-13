@@ -1,8 +1,8 @@
-# Olá, me chamo Nathália Elen e tenho 20 anos!
+# Olá, me chamo Nathália Elen e tenho 21 anos!
 ***
 
-- 👀 Atualmente, estou cursando o Tecnólogo de Sistemas para Internet e me formei no Curso Técnico em Desenvolvimento de Sistemas.
-- 🌱 Me interesso por HTML, CSS, Bootstrap Javascript, Git, GitHub, Banco de Dados, Metodologia Ágil.
+- 👀 Sou formada no Curso Técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando o Bacharelado de Ciência da Computação. 
+- 🌱 Me interesso por HTML, CSS, Bootstrap, Javascript, Git, GitHub, Banco de Dados Oracle e MySQL, SQL e PL/SQL, Metodologia Ágil, framework Scrum.
 - 💞️ Muito do que sou hoje devo as minhas experiências e desafios. Aprendo todos os dias a ter resiliência, foco nos meus estudos e nas realizações dos meus sonhos. Minha comunicação e responsabilidades foram desenvolvidas em entidades estudantis. Trabalhar atendendo pessoas aguçou a minha curiosidade e aprimorou a minha inteligência emocional.
 
 <div>
