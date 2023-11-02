@@ -1,4 +1,4 @@
-# Olá, me chamo Nathália Elen e tenho 21 anos!
+# Hey, I'm Nathália and I'm 21y!
 ***
 
 Graduated in Systems Development Technician and I am studying for a Bachelor's degree in Computer Science. I started my career as a backend developer in 2022, when I started an internship in the programming area and had the opportunity to enter this world head on. These days, I am a Junior System Analyst at Avanade. I love what I do, besides always looking for training and learning.
