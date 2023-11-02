@@ -1,9 +1,21 @@
 # Olá, me chamo Nathália Elen e tenho 21 anos!
 ***
 
-- 👀 Sou formada no Curso Técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando o Bacharelado de Ciência da Computação. 
-- 🌱 Me interesso por HTML, CSS, Bootstrap, Javascript, Git, GitHub, Banco de Dados Oracle e MySQL, SQL e PL/SQL, Metodologia Ágil, framework Scrum.
-- 💞️ Muito do que sou hoje devo as minhas experiências e desafios. Aprendo todos os dias a ter resiliência, foco nos meus estudos e nas realizações dos meus sonhos. Minha comunicação e responsabilidades foram desenvolvidas em entidades estudantis. Trabalhar atendendo pessoas aguçou a minha curiosidade e aprimorou a minha inteligência emocional.
+Graduated in Systems Development Technician and I am studying for a Bachelor's degree in Computer Science. I started my career as a backend developer in 2022, when I started an internship in the programming area and had the opportunity to enter this world head on. These days, I am a Junior System Analyst at Avanade. I love what I do, besides always looking for training and learning.
+
+I've been working as a backend developer since then, basically using C#, ASP Classic and JavaScript languages. In these more than 1 year and 9 months working with backend development, I had the opportunity to work with several technologies: Oracle DB, SQL, PL/SQL, VB-Script, Scrum, Kanban, Azure DevOps, HTML5, CSS3, Git, GitHub, API Rest, Microsoft Excel, Microsoft Word, Visual Studio and Visual Studio Code. 
+
+*Certifications:*
+AZ-900: Microsoft Azure fundamentals - demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular.
+
+DP-900: Microsoft Azure Data Fundamentals - demonstrate your knowledge of core data concepts and related Microsoft Azure data services.
+
+MTA 98-382: Introduction to Programming Using JavaScript - Candidates for this exam should be able to recognize and write syntactically correct JavaScript code, use data types supported by JavaScript, and be able to recognize and write JavaScript code that will logically solve a given problem. Candidates should also be familiar with JavaScript features and capabilities, and understand how to write, debug, and maintain well-formed, well documented JavaScript code.
+
+MTA 98-983: Introduction to Programming Using HTML and CSS - This exam measures a candidate’s ability to construct Markup that uses Metadata elements, construct and analyze styles that position content, and analyze styles that implement a simple responsive layout
+
+Email: nathalia.analista.sistemas@gmail.com
+Linkedln: www.linkedin.com/in/nathaliaelen
 
 <div>
   <a href="https://github.com/NathaliaElen">
