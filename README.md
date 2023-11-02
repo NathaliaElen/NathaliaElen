@@ -6,6 +6,7 @@ Graduated in Systems Development Technician and I am studying for a Bachelor's d
 I've been working as a backend developer since then, basically using C#, ASP Classic and JavaScript languages. In these more than 1 year and 9 months working with backend development, I had the opportunity to work with several technologies: Oracle DB, SQL, PL/SQL, VB-Script, Scrum, Kanban, Azure DevOps, HTML5, CSS3, Git, GitHub, API Rest, Microsoft Excel, Microsoft Word, Visual Studio and Visual Studio Code. 
 
 *Certifications:*
+
 AZ-900: Microsoft Azure fundamentals - demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular.
 
 DP-900: Microsoft Azure Data Fundamentals - demonstrate your knowledge of core data concepts and related Microsoft Azure data services.
@@ -15,6 +16,7 @@ MTA 98-382: Introduction to Programming Using JavaScript - Candidates for this e
 MTA 98-983: Introduction to Programming Using HTML and CSS - This exam measures a candidate’s ability to construct Markup that uses Metadata elements, construct and analyze styles that position content, and analyze styles that implement a simple responsive layout
 
 Email: nathalia.analista.sistemas@gmail.com
+
 Linkedln: www.linkedin.com/in/nathaliaelen
 
 <div>
