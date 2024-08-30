@@ -40,7 +40,7 @@ Linkedln: www.linkedin.com/in/nathaliaelen
 
 <div> 
   
-  <a href = "mailto:nathaliaelen79@gmail.com">
+  <a href = "mailto:nathalia.analista.sistemas@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
@@ -50,10 +50,6 @@ Linkedln: www.linkedin.com/in/nathaliaelen
   
   <a href="https://instagram.com/ops.nathalia" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.facebook.com/nathalia.ellen.5458" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
  
   ![Snake animation](https://github.com/NathaliaElen/NathaliaElen/blob/output/github-contribution-grid-snake.svg)
