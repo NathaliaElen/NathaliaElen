@@ -1,3 +1,5 @@
+[![Visitors Count](https://img.shields.io/badge/visitors-live-282a36?style=flat&logo=github&logoColor=ff79c6)](https://github.com/NathaliaElen)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FF79C6&center=true&vCenter=true&width=1000&height=80&lines=Olá!+Seja+muito+bem-vindo(a)+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
 ## 👩‍💻 Sobre mim  
