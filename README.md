@@ -15,6 +15,7 @@ Atualmente, trabalho como **Analista de Sistemas Júnior na Avanade Brasil**, at
 
 As tecnologias que utilizo variam conforme o projeto, mas destaco experiência com linguagens e ferramentas como:  
 **C#, ASP Classic, JavaScript, Oracle DB, SQL, PL/SQL, VBScript, HTML5, CSS3, API REST.**  
+
 Tenho também contato com metodologias ágeis, como **Scrum e Kanban**, e ferramentas como **Azure DevOps, Microsoft Excel, Word, PowerPoint, Visual Studio e Visual Studio Code**. Utilizo versionamento de código com **Git e GitHub**.
 
 ## 💡 Habilidades  
@@ -22,6 +23,7 @@ Tenho também contato com metodologias ágeis, como **Scrum e Kanban**, e ferram
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-6A45A3?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📚 Estudando no momento
