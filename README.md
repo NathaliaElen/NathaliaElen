@@ -43,19 +43,19 @@ Tenho também contato com metodologias ágeis, como **Scrum e Kanban**, e ferram
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🥇 Certificações  
-- AZ-900: Microsoft Azure Fundamentals  
-- DP-900: Microsoft Azure Data Fundamentals  
-- MTA 98-382: Introduction to Programming Using JavaScript  
-- MTA 98-383: Introduction to Programming Using HTML and CSS  
-- PSM-I: Professional Scrum Master I  
-- SFPC: Scrum Foundation Professional Certification  
-- LFC131: Green Software for Practitioners
-
-## ✍️ Meus artigos na DIO
-| 📅 Data | 📝 Título | 🔗 Link |
-|---------|------------|---------|
-| 12/06/2022   | Aumente Sua Retenção: O Poder da Repetição Espaçada nos Estudos | [👉 Ler Artigo](https://dio.me/articles/aumente-sua-retencao-o-poder-da-repeticao-espacada-nos-estudos-f4ac196c2b55?utm_source=link&utm_campaign=mgm-aumente-sua-retencao-o-poder-da-repeticao-espacada-nos-estudos-f4ac196c2b55&utm_medium=article) |
+## 🥇 Certificações/Cursos
+- Bootcamp WEX - End to End Engineering (Jul 2025)
+- PSM-I: Professional Scrum Master I (Nov 2024)
+- SFPC: Scrum Foundation Professional Certification (Out 2024)
+- English Proficiency Test GoFluent - B1.2 (Out 2024)
+- Certificate Avanade Scrum Master (Aug 2024)
+- Certificate Kanban at Avanade (May 2024)
+- LFC131: Green Software for Practitioners (Feb 2024)
+- AZ-900: Microsoft Azure Fundamentals (Jun 2023)
+- MTA 98-983: Introduction to Programming Using HTML and CSS (Jun 2022)
+- MTA 98-382: Introduction to Programming Using JavaScript (Jun 2022)
+- DP-900: Microsoft Azure Data Fundamentals ((May 2022)
+- Bootcamp Decola Tech 2° Edição Avanade (Jan 2022)
 
 ## 📫 Contatos  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nathalia.analista.sistemas@gmail.com)
@@ -96,8 +96,8 @@ Tenho também contato com metodologias ágeis, como **Scrum e Kanban**, e ferram
       </a>
     </td>
     <td>
-      <a href="https://github.com/NathaliaElen/dio-lab-open-source" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathaliaElen&repo=dio-lab-open-source&bg_color=282a36&border_color=6272a4&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" />
+      <a href="https://github.com/NathaliaElen/trilha-net-poo-desafio" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathaliaElen&repo=trilha-net-poo-desafio&bg_color=282a36&border_color=6272a4&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" />
       </a>
     </td>
   </tr>
